@@ -3,7 +3,7 @@ Program To Find The Value Of Capacitance Or Inductance Necessary To Increase The
 
 Input: 
     V(rms) -> The voltage in rms value.
-    w      -> The frequency (Hz).
+    f      -> The frequency (Hz).
     p      -> The power of the load (Watt).
     pf1    -> The load power factor.
     pf2    -> The intended power factor.
