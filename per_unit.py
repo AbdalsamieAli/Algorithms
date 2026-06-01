@@ -34,7 +34,7 @@ def main():
     base_v = 240
     v = 240
     i = 24
-    z = 10
+    z = (9.88 - 1.54j)
     v_pu, i_pu, z_pu = pu(base_s, base_v, v, i, z)
 
     print(f"V = {v_pu} per unit \nI = {i_pu} per unit \nZ = {z_pu} per unit")
